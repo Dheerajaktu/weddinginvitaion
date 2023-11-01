@@ -13,7 +13,7 @@
         },
         {
             "src": "public/images/(.*)",
-            "dest": "views/(.*)"
+            "dest": "views/index1.ejs"
         }
     ]
 }
